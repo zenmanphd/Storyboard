@@ -1,0 +1,24 @@
+body {
+    background-image: url('anna.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(218, 255, 252);
+  }
+  div {
+    background-color: rgba(76, 88, 121, 0.553);
+    border: 2px groove gray;
+    text-align: justify;
+    padding: 15px;
+    margin: auto;
+    margin-top: 5%;
+    width: 1000px;
+  }
+  h1 {
+    font-weight: 800;
+    font-size: 1.5rem;
+  }
+  p {
+    line-height: 2.0;
+  }
+  
