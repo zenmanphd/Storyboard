@@ -7,7 +7,7 @@ body {
   }
   div {
     background-color: rgba(76, 88, 121, 0.553);
-    border: 2px groove gray;
+    border: 2px inset gray;
     text-align: justify;
     padding: 15px;
     margin: auto;
