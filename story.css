@@ -6,8 +6,8 @@ body {
     color: rgb(218, 255, 252);
   }
   div {
-    background-color: rgba(76, 88, 121, 0.553);
-    border: 2px inset gray;
+    background-color: rgba(63, 74, 102, 0.714);
+    border: 2px inset rgb(156, 156, 156);
     text-align: justify;
     line-height: 2.5;
     padding: 15px;
