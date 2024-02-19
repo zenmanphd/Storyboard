@@ -3,10 +3,10 @@ body {
     background-attachment: fixed;
     background-size: cover;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(218, 255, 252);
+    color: rgb(235, 255, 253);
   }
   div {
-    background-color: rgba(63, 74, 102, 0.714);
+    background-color: rgba(83, 103, 136, 0.73);
     border: 2px inset rgb(156, 156, 156);
     text-align: justify;
     line-height: 2.5;
