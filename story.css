@@ -25,6 +25,9 @@ body {
   }
   .audio-container {
     display: inline-block;
+    width: 300px; /* adjust width as needed */
+    height: 200px; /* adjust height as needed */
+    margin: 10px;
   }
   
   
