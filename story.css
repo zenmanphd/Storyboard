@@ -5,7 +5,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(235, 255, 253);
   }
-  div {
+  .main {
     background-color: rgba(70, 85, 110, 0.785);
     border: 2px inset rgb(156, 156, 156);
     text-align: justify;
@@ -25,8 +25,8 @@ body {
   }
   .audio-container {
     display: inline-block;
-    width: 300px; /* adjust width as needed */
-    height: 200px; /* adjust height as needed */
+    width: 300px; 
+    height: 200px;
     margin: 10px;
   }
   
