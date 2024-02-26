@@ -24,7 +24,7 @@ body {
     font-weight: bolder;
   }
   .audio-container {
-    display: inline;
+    display: inline-block;
   }
   
   
