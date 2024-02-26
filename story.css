@@ -23,7 +23,8 @@ body {
     line-height: 2.0;
     font-weight: bolder;
   }
-  iframe {
-    margin: right;
+  
+  ul {
+      disply: inline;
   }
   
