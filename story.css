@@ -10,10 +10,10 @@ body {
     border: 2px inset rgb(156, 156, 156);
     text-align: justify;
     line-height: 2.5;
-    padding: 15px;
+    padding: 20px;
     margin: auto;
     margin-top: 5%;
-    width: 1000px;
+    width: 1500px;
   }
   h1 {
     font-weight: 800;
