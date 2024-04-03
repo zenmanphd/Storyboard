@@ -24,8 +24,8 @@ body {
     font-weight: bolder;
   }
   #tag {
-    margin: auto;
-    color: rgba(85, 146, 130, 0.527);
+    margin-left: 50%;
+    color: rgba(115, 196, 175, 0.758);
     font-family: 'Courier New', Courier, monospace;
   }
   .audio-container {
