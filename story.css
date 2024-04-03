@@ -24,7 +24,8 @@ body {
     font-weight: bolder;
   }
   #tag {
-    margin-left: 50%;
+    text-align: justify;
+    margin-left: 45%;
     color: rgba(115, 196, 175, 0.758);
     font-family: 'Courier New', Courier, monospace;
   }
