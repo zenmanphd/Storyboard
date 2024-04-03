@@ -23,6 +23,10 @@ body {
     line-height: 2.0;
     font-weight: bolder;
   }
+  #tag{
+    text-align: center;
+    color: rgb(116, 218, 201);
+  }
   .audio-container {
     display: inline-block;
     width: 300px; 
