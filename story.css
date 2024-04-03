@@ -25,7 +25,7 @@ body {
   }
   #tag {
     margin: auto;
-    color: rgb(152, 226, 214);
+    color: rgba(152, 226, 214, 0.582);
     font-family: 'Courier New', Courier, monospace;
   }
   .audio-container {
