@@ -24,8 +24,9 @@ body {
     font-weight: bolder;
   }
   #tag {
-    text-align: center;
-    color: rgba(119, 173, 164, 0.862);
+    margin: auto;
+    color: rgb(152, 226, 214);
+    font-family: 'Courier New', Courier, monospace;
   }
   .audio-container {
     display: inline-block;
