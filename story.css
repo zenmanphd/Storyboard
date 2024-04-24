@@ -29,6 +29,10 @@ body {
     color: rgba(115, 196, 175, 0.758);
     font-family: 'Courier New', Courier, monospace;
   }
+  #excerpt {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+  }
   .audio-container {
     display: inline-block;
     width: 300px; 
