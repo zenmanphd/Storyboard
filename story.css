@@ -40,8 +40,8 @@ body {
     margin: 10px;
   }
   button {
-    background-color: rgba(104, 174, 240, 0.573);
-    color: rgb(10, 10, 67);
+    background-color: transparent;
+    color: cornflowerblue;
     border: 2px solid whitesmoke;
     border-radius: 10px;
   }
