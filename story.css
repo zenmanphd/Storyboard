@@ -1,3 +1,7 @@
+  body {
+    background-attachment: fixed;
+    background-size: contain;
+  }
   .main {
     background-color: rgba(2, 31, 59, 0.836);
     border: 2px inset rgb(156, 156, 156);
