@@ -1,7 +1,7 @@
   body {
     background-image: url('anna.jpg');
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
   }
   .main {
     background-color: rgba(2, 31, 59, 0.836);
