@@ -45,7 +45,10 @@
     border: 2px solid whitesmoke;
     border-radius: 10px;
   }
-  
+  .style3 {
+    background-color: rgba(218, 96, 52, 0.679);
+    color: rgb(249, 220, 166);
+  }
   
   
   
