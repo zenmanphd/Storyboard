@@ -1069,10 +1069,12 @@ document.body.style.backgroundImage =  "url('lake7.jpg')";
     function newScene3() {
 document.body.style.backgroundImage =  "url('lake8.jpg')";
     }
-    function newDiv() {
-const element = document.getElementsByClassName('main');
-element.classList.add('style3');
-    }
+    const selectBtn3 = document.querySelector('#btn3');
+    
+    selectBtn3.addEventListener('click', ()=>{
+    main.style.backgroundColor: rgba(218, 96, 52, 0.679);
+    main.style.color: rgb(299, 220, 166);
+    })
 </script>     
       
 </body>
