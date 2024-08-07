@@ -7,7 +7,7 @@
     <title>Storyteller</title>
 </head>
 <body>
-    <div class="main">
+    <div id="main">
 
         <h3>But first, would you like to hear some theme appropriate background music?</h3>
         
@@ -1070,10 +1070,11 @@ document.body.style.backgroundImage =  "url('lake7.jpg')";
 document.body.style.backgroundImage =  "url('lake8.jpg')";
     }
     const selectBtn3 = document.querySelector('#btn3');
+    const viola = document.querySelector('#main');
     
     selectBtn3.addEventListener('click', ()=> {
-    document.main.style.backgroundColor = rgba(218, 96, 52, 0.679);
-    document.main.style.color = rgb(299, 220, 166);
+    viola.style.backgroundColor = rgba(218, 96, 52, 0.679);
+    viola.style.color = rgb(299, 220, 166);
     });
 </script>     
       
