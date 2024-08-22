@@ -30,7 +30,7 @@
     <h3>Would you like to change up the ambience?</h3>
     <button id="btn1" type="button" onclick="newScene1()">default</button>
     <button id="btn2" type="button" onclick="newScene2()">scene 2</button>
-    <button id="btn3" type="button" onclick="newScene3()">scene 3</button>
+    <button id="btn3" type="button" onclick="newScene3();newScene3b()">scene 3</button>
     <br>
         <h1>“A Drifter in Harmony”</h1> 
 
@@ -1069,9 +1069,10 @@ document.body.style.backgroundImage =  "url('lake7.jpg')";
     }
     function newScene3() {
 document.body.style.backgroundImage =  "url('lake8.jpg')"; 
+    }
 
+    function newScene3b() {
     const viola = document.getElementsByClassName('main');
-    
     viola.style.backgroundColor = rgba(218, 96, 52, 0.679);
     viola.style.color = rgb(299, 220, 166);
     }
