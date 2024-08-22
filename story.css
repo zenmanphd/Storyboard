@@ -14,6 +14,10 @@
     margin-top: 5%;
     width: 1250px;
   }
+  .alt-main {
+    background-color: rgba(218, 96, 52, 0.679);
+    color: rgb(299, 220, 166);
+  }
   .maintext {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
